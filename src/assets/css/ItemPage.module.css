@@ -1,0 +1,19 @@
+.contenedor {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  flex-wrap: wrap;
+}
+
+.col {
+  max-width: 400px;
+  margin: 15px;
+}
+
+.itemImage {
+  border-radius: 10px;
+}
+
+.itemDetails {
+  font-size: 1.5rem;
+}
